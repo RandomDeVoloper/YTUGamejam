@@ -5,7 +5,26 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"E:/Fork/YTUGamejam/GamejamYTU/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/Developers/niyaz/Try.umap",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/Developers/niyaz/Levels/Try.umap",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/Developers/niyaz/Blueprint/ST_DecisionCard.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/Developers/niyaz/Blueprint/DT_Cards.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/Developers/niyaz/Blueprint/BP_CardManager.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/Developers/niyaz/Blueprint/WB_CardUI.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/C/36/OKUF2JDDEE8DYW8W8T6XU4.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/TopDown/Maps/TopDownMap.umap",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/A/RN/FHX05LPSBNMAJG3SW97PS7.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/16/IU32BEDS8KCRBPZIQZ3317.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/V9/FYE97PCQGKIRUDX9FB1QCI.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/WV/FF6LPDZ0FKKLS0GFFG7RY1.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/R1/ENMI5ZSH5EMTVMF7P7JJ6A.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/YS/FOXTUL6MPN05XEWRDRZ58J.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/D3/60ORICH9SPD98P0GDB2WTP.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/FY/45JOQ38QR4K2P62IGCH99F.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/PL/MYXGV0RBWT3ZBX00KVP1IE.uasset",
+				"E:/Fork/YTUGamejam/GamejamYTU/Content/Developers/niyaz/ST_DecisionCard.uasset"
 			]
 		}
 	]
