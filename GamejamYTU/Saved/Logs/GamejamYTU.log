@@ -70,8 +70,8 @@ LogPluginManager: Mounting Engine plugin Fab
 LogPluginManager: Mounting Engine plugin FastBuildController
 LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin RenderGraphInsights
-LogPluginManager: Mounting Engine plugin UbaController
 LogPluginManager: Mounting Engine plugin TraceUtilities
+LogPluginManager: Mounting Engine plugin UbaController
 LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin AnimationSharing
@@ -189,8 +189,8 @@ LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
 LogPluginManager: Mounting Engine plugin ControlRig
 LogPluginManager: Mounting Engine plugin ControlRigModules
-LogPluginManager: Mounting Engine plugin ControlRigSpline
 LogPluginManager: Mounting Engine plugin DeformerGraph
+LogPluginManager: Mounting Engine plugin ControlRigSpline
 LogPluginManager: Mounting Engine plugin IKRig
 LogPluginManager: Mounting Engine plugin LiveLink
 LogPluginManager: Mounting Engine plugin CameraShakePreviewer
@@ -200,24 +200,28 @@ LogPluginManager: Mounting Engine plugin OodleNetwork
 LogPluginManager: Mounting Engine plugin RigLogic
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin ChangelistReview
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting Engine plugin ColorGrading
 LogPluginManager: Mounting Engine plugin BlueprintHeaderView
 LogPluginManager: Mounting Engine plugin CryptoKeys
 LogPluginManager: Mounting Engine plugin DataValidation
 LogPluginManager: Mounting Engine plugin CurveEditorTools
 LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
 LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
 LogPluginManager: Mounting Engine plugin EngineAssetDefinitions
 LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
 LogPluginManager: Mounting Engine plugin MaterialAnalyzer
 LogPluginManager: Mounting Engine plugin MeshLODToolset
-LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
-LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PluginBrowser
 LogPluginManager: Mounting Engine plugin SequencerAnimTools
 LogPluginManager: Mounting Engine plugin SpeedTreeImporter
 LogPluginManager: Mounting Engine plugin StylusInput
@@ -230,6 +234,7 @@ LogPluginManager: Mounting Engine plugin Interchange
 LogPluginManager: Mounting Engine plugin InterchangeAssets
 LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin VariantManagerContent
 LogPluginManager: Mounting Engine plugin AndroidMedia
 LogPluginManager: Mounting Engine plugin AvfMedia
@@ -264,14 +269,6 @@ LogPluginManager: Mounting Engine plugin ConcertSyncClient
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
-LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
-LogWindows: File 'WinPixGpuCapturer.dll' does not exist
-PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
-LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
-RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
-LogNFORDenoise: NFORDenoise function starting up
-LogStudioTelemetry: Display: Starting StudioTelemetry Module
-LogStudioTelemetry: Started StudioTelemetry Session
 LogEOSSDK: Initializing EOSSDK Version:1.17.0-39599718
 LogInit: Using libcurl 8.4.0
 LogInit:  - built for Windows
@@ -296,6 +293,14 @@ LogInit: Creating http thread with maximum 2147483647 concurrent requests
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+LogWindows: Failed to load 'WinPixGpuCapturer.dll' (GetLastError=126)
+LogWindows: File 'WinPixGpuCapturer.dll' does not exist
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
+RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
+LogNFORDenoise: NFORDenoise function starting up
+LogStudioTelemetry: Display: Starting StudioTelemetry Module
+LogStudioTelemetry: Started StudioTelemetry Session
 LogInit: ExecutableName: UnrealEditor.exe
 LogInit: Build: ++UE5+Release-5.5-CL-40574608
 LogInit: Platform=WindowsEditor
@@ -500,7 +505,7 @@ LogConfig: Branch 'VariantManager' had been unloaded. Reloading on-demand took 0
 LogConfig: Branch 'AndroidMedia' had been unloaded. Reloading on-demand took 0.09ms
 LogConfig: Branch 'AvfMedia' had been unloaded. Reloading on-demand took 0.09ms
 LogConfig: Branch 'ImgMedia' had been unloaded. Reloading on-demand took 0.08ms
-LogConfig: Branch 'MediaCompositing' had been unloaded. Reloading on-demand took 0.08ms
+LogConfig: Branch 'MediaCompositing' had been unloaded. Reloading on-demand took 0.09ms
 LogConfig: Branch 'MediaPlate' had been unloaded. Reloading on-demand took 0.08ms
 LogConfig: Branch 'MediaPlayerEditor' had been unloaded. Reloading on-demand took 0.08ms
 LogConfig: Branch 'ActorSequence' had been unloaded. Reloading on-demand took 0.08ms
